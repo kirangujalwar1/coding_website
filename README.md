@@ -1,4 +1,4 @@
 # coding_website
-![](img1.png)
-![](img2.png)
-![](img3.png)
+![](img1.PNG)
+![](img2.PNG)
+![](img3.PNG)
